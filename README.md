@@ -47,6 +47,3 @@ Task 7: Test and Refine
 
 Thoroughly test the HWID ban system to ensure it works correctly and doesn't cause issues with the game or other plugins
 Refine the system to handle edge cases and improve its performance
-
-
-By following these tasks, you'll be able to create a robust HWID ban system for Counter-Strike 1.6 using AMX Mod X and the Pawn language. Good luck with your project!
