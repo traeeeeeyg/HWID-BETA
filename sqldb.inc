@@ -2,7 +2,7 @@
 
 // Initialize the SQLite database connection
 new dbHandle;
-sqlx_connect("hwids.db", "my_secret_password", dbHandle);
+sqlx_connect("hwids.db", "hwids.db", dbHandle);
 
 // Function to insert a new HWID entry into the database
 InsertHWID(clientName[], hwid[]) {
